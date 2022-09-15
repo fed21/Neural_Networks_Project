@@ -18,14 +18,14 @@ This is the final project for the course of Neural Networks 2021/2022 at Sapienz
 
 ## 📜 Report
 
--   power point presentation [Link 🔗]()
+-   power point presentation ()
 -   paper [Link 🔗]()
 
     In these files you can read more about the code and the result of the project.
 
 ## 💯 Final score:
 
-Score: ``
+Score: `30L`
 
 ## 🙋 Info
 
