@@ -14,11 +14,16 @@ This is the final project for the course of Neural Networks 2021/2022 held by pr
 -   Kaggle Dataset for Breast Histopathology Images [Link 🔗](https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images)
 
 ## 📜 Results
-For CIFAR10 dataset results are very good:
+For CIFAR10 dataset results are very good: <br><br>
+<img src="src/mio duck.png" width="400" allign=center/> <br><br>
+For the Kaggle dataset we obtained 87.95% of accuracy: <br><br>
+<img src="src/breast_2.png" width="400" allign=center/> <br><br>
+This work can be found in the [PDF report](./Neural_network_project_BETELLO_CARMIGNANI.pdf) and in the [PPT] presentation(./PPT_NN.pptx).>br><br>
 
-
+We notice that in this last image we didn't know if the attention map created was highlighting the correct patch of the image, so we decide to use another [dataset](https://wiki.cancerimagingarchive.net/display/Public/CBIS-DDSM) where the ground trouth are provided:
+<img src="src/Mass-Training_P_00001_LEFT_CC (1).png" width="600" allign=left/> <br><br>
+This last step is currently under developing by professor Comminiello and one of his PhD students. [Here](link) you can find an abstract.
 
 ## 🙋 Info
 
-for any doubt or clarification contact us on:
--   send an email at: carmignani.1845479@studenti.uniroma1.it or betello.1835108@studenti.uniroma1.it
+for any doubt or clarification send an email at: carmignani.1845479@studenti.uniroma1.it or betello.1835108@studenti.uniroma1.it.
